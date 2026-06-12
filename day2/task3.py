@@ -51,3 +51,7 @@ dic={"name":{
     2:85
 }}
 print(dic["name"][1],dic["marks"][1])
+
+
+u = "Raju"
+print(u[::-1])

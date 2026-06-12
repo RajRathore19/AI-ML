@@ -14,7 +14,6 @@
 #   fact*=i
 # print(fact)
 
-
 # # break and continue
 # for i in range(5):
 #     if i == 3:

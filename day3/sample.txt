@@ -1,12 +1,12 @@
 Text to override, 
- the complete data.
+the complete data.
 HELLO my name is raj 
 I am from indore
-indore
+indore is my city
 Lorem Ipsum: The most widely used filler text,
 derived from corrupted Latin. You can generate
 it using tools like the Dummy Text Generator or
 the Lorem Ipsum Generator.Microsoft Word: You 
 can automatically generate blocks of sample 
-text by typing =rand() or =lorem() directly 
+text by typing =rand or =lorem directly 
 into a document indore
