@@ -35,3 +35,4 @@ obj2.area()
 
 obj3=Triangle(5,2)
 obj3.area()
+
