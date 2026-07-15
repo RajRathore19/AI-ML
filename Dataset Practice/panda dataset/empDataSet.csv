@@ -1,0 +1,11 @@
+﻿employee_id,name,department,salary
+101,Alice,HR,55000
+102,Bob,IT,62000
+103,Charlie,,58000
+104,David,Finance,
+105,,IT,71000
+106,Frank,HR,54000
+107,Grace,,
+108,Helen,Marketing,65000
+109,Ian,Finance,60000
+110,Jenny,,72000

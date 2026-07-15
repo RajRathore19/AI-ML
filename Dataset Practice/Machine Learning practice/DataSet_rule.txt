@@ -1,0 +1,19 @@
+1)In this medical insurance dataset we need to convert our string value into numerical 0,1 that help our algorithm to work properly like YES or NO
+    Yes -> 1
+    No  -> 0
+    Male-> 0
+    female->1
+
+2)We perform Train/Test step here we devide our data in 80% , 20% for training , and as previous we set 0,1 value 
+X = smoker , sex
+Y = charges
+
+so here our data is divided into 4 parts , 2 parts for X and 2 parts for Y
+we use Sklearn to do this 
+
+3) Then we use linear regression function that is build-in in sklearn lib to create our model.
+    there is an function which is model.fit(X_train,Y_train) we pass our train data 
+    then we predict our output by using model.predict function here we pass out X_test data to check our model score
+
+4) here we evaluate our model by using R-squared and adjusted R-squared value 
+ 

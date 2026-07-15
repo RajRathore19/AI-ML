@@ -1,0 +1,11 @@
+,employee_id,name,salary,department
+0,101,Alice,55000.0,HR
+1,102,Bob,62000.0,IT
+2,103,Charlie,58000.0,Non-tech
+3,104,David,62125.0,Finance
+4,105,User,71000.0,IT
+5,106,Frank,54000.0,HR
+6,107,Grace,62125.0,Non-tech
+7,108,Helen,65000.0,Marketing
+8,109,Ian,60000.0,Finance
+9,110,Jenny,72000.0,Non-tech

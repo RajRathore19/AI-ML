@@ -1,0 +1,50 @@
+[
+  {
+    "id": 101,
+    "name": "Alex Smith",
+    "email": "alex.smith@example.com",
+    "signup_date": "2026-05-12",
+    "status": "Active",
+    "usage_hours": 14.5
+  },
+  {
+    "id": 102,
+    "name": "Sarah Jones",
+    "email": "sarah.jones@example.com",
+    "signup_date": "05/14/2026",
+    "status": "active",
+    "usage_hours": 8
+  },
+
+  {
+    "id": 103,
+    "name": "Alex Smith",
+    "email": "alex.smith@example.com",
+    "signup_date": "2026-05-12",
+    "status": "Active"
+  },
+  {
+    "id": 105,
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "signup_date": "2026-15-05",
+    "status": "Inactive",
+    "usage_hours": 5
+  },
+  {
+    "id": 102,
+    "name": "Sarah J.",
+    "email": "sarah.jones@example.com",
+    "signup_date": "05/14/2026",
+    "status": "ACTIVE",
+    "usage_hours": "8.0"
+  },
+  {
+    "id": 106,
+    "name": "Michael Brown",
+    "email": "mbrown@example.org",
+    "signup_date": "2026/05/20",
+    "status": "Active",
+    "usage_hours": 42
+  }
+]
